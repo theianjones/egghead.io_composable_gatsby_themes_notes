@@ -4,3 +4,4 @@
 - [Set Up and Run Gatsby](./02-set_up_and_run_gatsby.md)
 - [Convert Our Gatsby Site to a Yarn Workspace Project](./03-convert_gatsby_site_to_yarn_workspace_project.md)
 - [Overview of Gatsby Site](./04-overview_of_gatsby_site.md)
+- [Create A Marketing Gatsby Theme](./05-create_gatsby_theme_marketing.md)
