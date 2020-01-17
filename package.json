@@ -1,0 +1,26 @@
+{
+  "name": "egghead.io_composable_gatsby_themes_notes",
+  "version": "1.0.0",
+  "description": "This repo contains notes from [Chris Biscardi](https://www.christopherbiscardi.com/)'s _excellent_ [gatsby themes](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theianjones/egghead.io_composable_gatsby_themes_notes"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theianjones/egghead.io_composable_gatsby_themes_notes"
+  },
+  "homepage": "https://github.com/theianjones/egghead.io_composable_gatsby_themes_notes",
+  "dependencies": {
+    "express": "^4.13.4",
+    "gitbook-plugin-advanced-emoji": "^0.1.6",
+    "gitbook-plugin-hints": "^1.0.1",
+    "gitbook-plugin-prism": "^1.0.0"
+  }
+}

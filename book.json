@@ -1,0 +1,5 @@
+{
+  "title": "egghead.io - Composable Gatsby Themes",
+  "description": "This repo contains notes from [Chris Biscardi](https://www.christopherbiscardi.com/)'s _excellent_ [gatsby themes](https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree).",
+  "plugins": ["advanced-emoji", "prism", "-highlight", "hints"]
+}
