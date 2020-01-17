@@ -1,8 +1,8 @@
 # 05. Overview of Gatsby Site Example Project
 
-[code url](https://github.com/christopherbiscardi/advanced-gatsby-themes-workshop-code/tree/master)
+[Code Link](https://github.com/christopherbiscardi/advanced-gatsby-themes-workshop-code/tree/master)
 
-[video url](https://egghead.io/lessons/gatsby-overview-of-gatsby-site-example-project)
+[Video Link](https://egghead.io/lessons/gatsby-overview-of-gatsby-site-example-project)
 
 ## Summary
 

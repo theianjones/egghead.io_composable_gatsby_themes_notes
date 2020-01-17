@@ -1,8 +1,8 @@
 # 06. Create a Marketing Gatsby Theme
 
-[code url](https://github.com/christopherbiscardi/advanced-gatsby-themes-workshop-code/tree/02-a-marketing-theme)
+[Code Link](https://github.com/christopherbiscardi/advanced-gatsby-themes-workshop-code/tree/02-a-marketing-theme)
 
-[video url](https://egghead.io/lessons/gatsby-create-a-marketing-gatsby-theme)
+[Video Link](https://egghead.io/lessons/gatsby-create-a-marketing-gatsby-theme)
 
 ## Summary
 

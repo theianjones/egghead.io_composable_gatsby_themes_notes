@@ -1,8 +1,8 @@
 # 04. Convert Gatsby Site to Yarn Workspace Project
 
-[code url](https://github.com/christopherbiscardi/advanced-gatsby-themes-workshop-code/tree/01-yarn-workspaces)
+[Code Link](https://github.com/christopherbiscardi/advanced-gatsby-themes-workshop-code/tree/01-yarn-workspaces)
 
-[video url](https://egghead.io/lessons/gatsby-convert-gatsby-site-to-yarn-workspace-project#t=0)
+[Video Link](https://egghead.io/lessons/gatsby-convert-gatsby-site-to-yarn-workspace-project#t=0)
 
 ## Summary
 

@@ -1,8 +1,8 @@
 # 03. Setup and Run a Gatsby Site
 
-[code url](https://github.com/christopherbiscardi/advanced-gatsby-themes-workshop-code/tree/master)
+[Code Link](https://github.com/christopherbiscardi/advanced-gatsby-themes-workshop-code/tree/master)
 
-[video url](<[00:00](https://egghead.io/lessons/gatsby-setup-and-run-a-gatsby-site#t=0)>)
+[Video Link](<[00:00](https://egghead.io/lessons/gatsby-setup-and-run-a-gatsby-site#t=0)>)
 
 ## Summary
 

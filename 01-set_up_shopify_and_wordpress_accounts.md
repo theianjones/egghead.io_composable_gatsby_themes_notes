@@ -1,8 +1,8 @@
 # 01. Set up a Shopify Account
 
-[code url](https://github.com/christopherbiscardi/advanced-gatsby-themes-workshop-code/tree/master)
+[Code Link](https://github.com/christopherbiscardi/advanced-gatsby-themes-workshop-code/tree/master)
 
-[video url](https://egghead.io/lessons/gatsby-set-up-a-shopify-account#t=0)
+[Video Link](https://egghead.io/lessons/gatsby-set-up-a-shopify-account#t=0)
 
 ## Summary
 
@@ -26,7 +26,7 @@ Create a development store, Chris calls his Corgi Supply Inc.
 
 # 02. Set up a WordPress Account
 
-[video url](https://egghead.io/lessons/gatsby-set-up-a-wordpress-account#t=00)
+[Video Link](https://egghead.io/lessons/gatsby-set-up-a-wordpress-account#t=00)
 
 ## Summary
 
