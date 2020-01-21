@@ -8,3 +8,4 @@
 - [Create A Shopify Gatsby Theme](./06-build_an_advanced_gatsby_theme_shopify.md)
 - [Create Product Blog Theme](./07-creating_a_blog_theme.md)
 - [Use Schema Customization to Support MDX and WordPress](./08-use_schema_customization_to_support_mdx_and_wordpress.md)
+- [Powering BlogPost with WordPress and Mdx](./09-powering_blogpost_with_wordpress_and_mdx.md)
