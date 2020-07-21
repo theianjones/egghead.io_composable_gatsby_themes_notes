@@ -1,3 +1,5 @@
+<h1 align="center"><a href="https://github.com/eggheadio/eggheadio-course-notes">:warning: notes have been moved to eggheadio-course-notes!</a></h1>
+
 ![](./images/GatsbyThemes.png)
 
 # egghead.io Composable Gatsby Themes Notes
